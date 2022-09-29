@@ -5,16 +5,16 @@ var i=0
 var cod;
 
 a=0
-while  (a != 7){
+while  (a != 5){
 	a=a+1
 	b=0+a
-    while  (b != 8){
+    while  (b != 6){
 	b=b+1
 	c=0+b
-    while  (c != 9){
+    while  (c != 7){
 	 c=c+1
      d=0+c
-     while  (d != 10){
+     while  (d != 8){
     d=d+1
     i=i+1
 	 carton=[a,b,c,d]
@@ -23,6 +23,8 @@ while  (a != 7){
     }
 }
 }
+
+
 
 var cartoon=[4,5,7,8]
 
